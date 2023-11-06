@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 22px;
+    color: seashell;
+}
+
+header {
+    padding: 0px 10px;
+    height: 69px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid seashell;
+}
+
+.logo {
+    height: 50px;
+    opacity: 0.9;
+}
+
+.navitem {
+    color: seashell;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 22px;
+    padding: 0 10px;
+}
