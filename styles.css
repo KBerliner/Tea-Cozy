@@ -43,3 +43,28 @@ header {
     display: block;
     width: 100%;
 }
+
+.teaofthemonth {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.tealist {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 100%;
+}
+
+.tea {
+    margin: 16px;
+}
+
+.tea > img {
+    width: 300px;
+    height: 200px;
+}
+
+.teaname {
+    margin: 10px 0;
+}
