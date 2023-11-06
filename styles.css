@@ -68,3 +68,42 @@ header {
 .teaname {
     margin: 10px 0;
 }
+
+.locationssection {
+    width: 1200px;
+    height: 500px;
+    background-image: url(./images/img-locations-background.jpg);
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.locations {
+    display: flex;
+}
+
+.location {
+    background-color: black;
+    width: 300px;
+    margin: 15px 20px;
+}
+
+.address {
+    line-height: 50px;
+    margin-top: 0;
+}
+
+.contact {
+    height: 200px;
+    text-align: center;
+}
+
+footer {
+    text-align: left;
+}
+
+.copyright {
+    padding-left: 20px;
+}
